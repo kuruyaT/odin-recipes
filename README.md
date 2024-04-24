@@ -1,1 +1,1 @@
-# odin-recipes
+Basic HTML page to practice links and images.
